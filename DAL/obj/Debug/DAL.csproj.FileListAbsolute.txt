@@ -1,0 +1,8 @@
+D:\PTUD\Nhom01_DeTai04_PTUD_13A_2019\DAL\bin\Debug\DAL.dll.config
+D:\PTUD\Nhom01_DeTai04_PTUD_13A_2019\DAL\bin\Debug\DAL.dll
+D:\PTUD\Nhom01_DeTai04_PTUD_13A_2019\DAL\bin\Debug\DAL.pdb
+D:\PTUD\Nhom01_DeTai04_PTUD_13A_2019\DAL\bin\Debug\Entities.dll
+D:\PTUD\Nhom01_DeTai04_PTUD_13A_2019\DAL\bin\Debug\Entities.pdb
+D:\PTUD\Nhom01_DeTai04_PTUD_13A_2019\DAL\obj\Debug\DAL.dll
+D:\PTUD\Nhom01_DeTai04_PTUD_13A_2019\DAL\obj\Debug\DAL.pdb
+D:\PTUD\Nhom01_DeTai04_PTUD_13A_2019\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache

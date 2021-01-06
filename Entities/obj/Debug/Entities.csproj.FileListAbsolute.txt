@@ -1,0 +1,4 @@
+D:\PTUD\Nhom01_DeTai04_PTUD_13A_2019\Entities\bin\Debug\Entities.dll
+D:\PTUD\Nhom01_DeTai04_PTUD_13A_2019\Entities\bin\Debug\Entities.pdb
+D:\PTUD\Nhom01_DeTai04_PTUD_13A_2019\Entities\obj\Debug\Entities.dll
+D:\PTUD\Nhom01_DeTai04_PTUD_13A_2019\Entities\obj\Debug\Entities.pdb
